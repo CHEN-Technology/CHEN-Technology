@@ -1,3 +1,9 @@
-[![CHEN-Technology's GitHub Stats](https://github-readme-stats.chentech.asia/api?username=CHEN-Technology&theme=tokyonight&show_icons=true)](https://github.com/CHEN-Technology)
-[![Top Langs](https://github-readme-stats.chentech.asia/api/top-langs/?username=CHEN-Technology&layout=compact&theme=tokyonight)](https://github.com/CHEN-Technology)
-[![CHEN-Technology's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CHEN-Technology&theme=tokyo-night)](https://github.com/CHEN-Technology)
+<a href="https://github.com/CHEN-Technology">
+  <img align="left" alt="CHEN-Technology's GitHub Stats" width="400px" src="https://github-readme-stats.chentech.asia/api?username=CHEN-Technology&theme=tokyonight&show_icons=true" />
+</a
+<a href="https://github.com/CHEN-Technology">
+  <img align="center" alt="CHEN-Technology's Top Langs" width="400px" src="https://github-readme-stats.chentech.asia/api/top-langs/?username=CHEN-Technology&layout=compact&theme=tokyonight" />
+</a>
+<a href="https://github.com/CHEN-Technology">
+  <img align="right" alt="CHEN-Technology's github activity graph" width="400px" src="https://github-readme-activity-graph.vercel.app/graph?username=CHEN-Technology&theme=tokyo-night" />
+</a>
