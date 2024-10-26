@@ -5,8 +5,8 @@
   <img align="left" alt="CHEN-Technology's GitHub Stats" src="https://github-readme-stats.chentech.asia/api?username=CHEN-Technology&theme=tokyonight&show_icons=true&locale=cn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a
 <a href="https://github.com/CHEN-Technology">
-  <img align="right" alt="CHEN-Technology's Top Langs" height="195px" src="https://github-readme-stats.chentech.asia/api/top-langs/?username=CHEN-Technology&layout=compact&theme=tokyonight&locale=cn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img align="center" alt="CHEN-Technology's Top Langs" height="195px" src="https://github-readme-stats.chentech.asia/api/top-langs/?username=CHEN-Technology&layout=compact&theme=tokyonight&locale=cn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/CHEN-Technology">
-  <img align="center" alt="CHEN-Technology's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CHEN-Technology&theme=tokyo-night" />
+  <img align="right" alt="CHEN-Technology's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CHEN-Technology&theme=tokyo-night" />
 </a>
