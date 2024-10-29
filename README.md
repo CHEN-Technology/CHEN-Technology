@@ -11,6 +11,8 @@
   <img align="right" alt="CHEN-Technology's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CHEN-Technology&theme=tokyo-night&area=true" />
 </a>
 
+</br>
+
 ## 我的技能
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,docker,linux,vscode,windows)](https://github.com/CHEN-Technology)
